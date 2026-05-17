@@ -244,10 +244,6 @@ heart-disease-logistic-regression/
 ├── README.md
 ├── requirements.txt
 │
-├── models/
-│   ├── logistic_regression_model.pkl
-│   └── scaler.pkl
-│
 └── images/
     ├── age_distribution.png
     ├── correlation_heatmap.png
@@ -261,7 +257,7 @@ heart-disease-logistic-regression/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/heart-disease-logistic-regression
+git clone https://github.com/SaharJavadianG/-Heart-Disease-Prediction-using-Logistic-Regression/tree/main
 ```
 
 Install dependencies:
