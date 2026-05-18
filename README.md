@@ -243,11 +243,8 @@ heart-disease-logistic-regression/
 ├── LogisticRegression.ipynb
 ├── README.md
 ├── requirements.txt
-│
-└── images/
-    ├── age_distribution.png
-    ├── correlation_heatmap.png
-    └── confusion_matrix.png
+
+ 
 ```
 
 ---
